@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004175938199",
+    "project_id": "project-2-group-3-fefca",
+    "storage_bucket": "project-2-group-3-fefca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004175938199:android:7d94e802cdda72c6a20fd2",
+        "android_client_info": {
+          "package_name": "edu.sdsmt.group3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004175938199-g6ep3aa8t5eorj5m90rp3q7seidgc489.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrwRNyX5hk5_MX3ODJrBi6qCdd3zMwDV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004175938199-g6ep3aa8t5eorj5m90rp3q7seidgc489.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

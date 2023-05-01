@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SDSMT/Classes/spring 2022/Mobile/Project1/Group2/app/src/main/res/layout-land/activity_end.xml" value="0.5" />
+        <entry key="..\:/SDSMT/Classes/spring 2022/Mobile/Project1/Group2/app/src/main/res/layout-land/activity_start.xml" value="0.33" />
+        <entry key="..\:/SDSMT/Classes/spring 2022/Mobile/Project1/Group2/app/src/main/res/layout/activity_capture.xml" value="0.15" />
+        <entry key="..\:/SDSMT/Classes/spring 2022/Mobile/Project1/Group2/app/src/main/res/layout/activity_end.xml" value="0.322463768115942" />
+        <entry key="..\:/SDSMT/Classes/spring 2022/Mobile/Project1/Group2/app/src/main/res/layout/activity_game.xml" value="0.25" />
+        <entry key="..\:/SDSMT/Classes/spring 2022/Mobile/Project1/Group2/app/src/main/res/layout/activity_start.xml" value="0.25" />
+        <entry key="..\:/SDSMT/Classes/spring 2022/Mobile/Project1/Group2/app/src/main/res/layout/help_dialog.xml" value="0.322463768115942" />
+        <entry key="..\:/SDSMT/Classes/spring 2022/Mobile/Project1/Group2/app/src/main/res/layout/web_view.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/7217341/AndroidStudioProjects/group-3/app/src/main/res/layout-land/activity_login.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/7217341/AndroidStudioProjects/group-3/app/src/main/res/layout-land/activity_start.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/7217341/AndroidStudioProjects/group-3/app/src/main/res/layout-land/activity_waiting.xml" value="0.31040564373897706" />
+        <entry key="..\:/Users/7217341/AndroidStudioProjects/group-3/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/7217341/AndroidStudioProjects/group-3/app/src/main/res/layout/activity_start.xml" value="0.33061594202898553" />
+        <entry key="..\:/Users/7217341/AndroidStudioProjects/group-3/app/src/main/res/layout/activity_waiting.xml" value="0.33061594202898553" />
+        <entry key="..\:/Users/7217341/AndroidStudioProjects/group-3/app/src/main/res/layout/signup_dlg.xml" value="0.33061594202898553" />
+        <entry key="..\:/Users/7217341/AndroidStudioProjects/group-3/app/src/main/res/menu/main_menu.xml" value="0.2" />
+        <entry key="..\:/Users/7429138/AndroidStudioProjects/mobileproject/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/7505169/csc476/Project2/app/src/main/res/layout/activity_game.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/7505169/csc476/Project2/app/src/main/res/layout/activity_login.xml" value="0.23867753623188406" />
+        <entry key="..\:/Users/7505169/csc476/Project2/app/src/main/res/layout/activity_start.xml" value="0.23867753623188406" />
+        <entry key="..\:/Users/7505169/csc476/mobileproject/app/src/main/res/layout/activity_capture.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/7505169/csc476/mobileproject/app/src/main/res/layout/activity_end.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/7505169/csc476/mobileproject/app/src/main/res/layout/activity_gameplay.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/7505169/csc476/mobileproject/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
